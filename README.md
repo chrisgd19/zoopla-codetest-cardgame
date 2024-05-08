@@ -50,13 +50,10 @@ The player that has taken the most cards is the winner. The game may end in a dr
 
 - Match condition
 The match condition determines when two cards match for the duration of the game. There are three options:
-● The suits of two cards must match
-○ Example: "3 of hearts" and "5 of hearts" match because they are both
+- The suits of two cards must match Example: "3 of hearts" and "5 of hearts" match because they are both
 hearts.
-● The values of two cards must match
-○ Example: "7 of hearts" and "7 of clubs" match because they both have the value 7.
-● Both suit and value must match
-○ Example: "Jack of spades" only matches another "Jack of spades"
+- The values of two cards must match Example: "7 of hearts" and "7 of clubs" match because they both have the value 7.
+- Both suit and value must match Example: "Jack of spades" only matches another "Jack of spades"
 
 ## Testing
 
